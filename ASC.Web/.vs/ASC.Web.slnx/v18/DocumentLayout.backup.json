@@ -1,0 +1,1538 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\navigation\\navigation.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\navigation\\navigation.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\areas\\configuration\\controllers\\masterdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\configuration\\controllers\\masterdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trong\\.nuget\\packages\\epplus\\6.2.10\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\areas\\configuration\\views\\masterdata\\mastervalues.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\configuration\\views\\masterdata\\mastervalues.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\areas\\configuration\\models\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\configuration\\models\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\areas\\configuration\\models\\mastervaluesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\configuration\\models\\mastervaluesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\areas\\configuration\\models\\masterdatavalueviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\configuration\\models\\masterdatavalueviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\areas\\configuration\\views\\masterdata\\masterkeys.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\configuration\\views\\masterdata\\masterkeys.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\areas\\configuration\\models\\masterdatakeyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\configuration\\models\\masterdatakeyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\areas\\configuration\\models\\masterkeysviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\configuration\\models\\masterkeysviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\areas\\configuration\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\configuration\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{948423D7-5E28-34E6-38FA-32504232B438}|ASC.Business\\ASC.Business.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.business\\operations\\masterdataoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{948423D7-5E28-34E6-38FA-32504232B438}|ASC.Business\\ASC.Business.csproj|solutionrelative:asc.business\\operations\\masterdataoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{948423D7-5E28-34E6-38FA-32504232B438}|ASC.Business\\ASC.Business.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.business\\interfaces\\imasterdataoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{948423D7-5E28-34E6-38FA-32504232B438}|ASC.Business\\ASC.Business.csproj|solutionrelative:asc.business\\interfaces\\imasterdataoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\views\\shared\\_securelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\views\\shared\\_securelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\areas\\accounts\\views\\account\\customers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\accounts\\views\\account\\customers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\areas\\accounts\\views\\account\\serviceengineers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\accounts\\views\\account\\serviceengineers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\areas\\accounts\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\accounts\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\areas\\accounts\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\accounts\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\areas\\accounts\\models\\profilemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\accounts\\models\\profilemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\areas\\accounts\\models\\customerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\accounts\\models\\customerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\areas\\accounts\\models\\customerregistrationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\accounts\\models\\customerregistrationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\viewcomponents\\leftnavigationviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\viewcomponents\\leftnavigationviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\areas\\accounts\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\accounts\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\areas\\accounts\\models\\serviceengineerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\accounts\\models\\serviceengineerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\areas\\accounts\\models\\serviceengineerregistrationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\accounts\\models\\serviceengineerregistrationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\areas\\identity\\pages\\account\\externallogin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\identity\\pages\\account\\externallogin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\areas\\identity\\pages\\account\\externallogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\identity\\pages\\account\\externallogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\areas\\identity\\pages\\account\\confirmemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\identity\\pages\\account\\confirmemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\areas\\identity\\pages\\account\\manage\\_managenav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\identity\\pages\\account\\manage\\_managenav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\areas\\identity\\pages\\account\\manage\\_statusmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\identity\\pages\\account\\manage\\_statusmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\areas\\identity\\pages\\account\\manage\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\identity\\pages\\account\\manage\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\areas\\identity\\pages\\account\\manage\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\identity\\pages\\account\\manage\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\areas\\identity\\pages\\account\\manage\\email.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\identity\\pages\\account\\manage\\email.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\areas\\identity\\pages\\account\\manage\\managenavpages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\identity\\pages\\account\\manage\\managenavpages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\areas\\identity\\pages\\account\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\identity\\pages\\account\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\areas\\identity\\pages\\account\\manage\\setpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\identity\\pages\\account\\manage\\setpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\services\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\services\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\wwwroot\\js\\init.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\wwwroot\\js\\init.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\areas\\identity\\pages\\account\\resetpasswordconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\identity\\pages\\account\\resetpasswordconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\configuration\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\configuration\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\services\\authmessagesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\services\\authmessagesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\areas\\identity\\pages\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\identity\\pages\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\areas\\identity\\pages\\account\\manage\\changepassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\identity\\pages\\account\\manage\\changepassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\areas\\identity\\pages\\account\\registerconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\identity\\pages\\account\\registerconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\navigation\\navigationmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\navigation\\navigationmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\navigation\\navigationcacheoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\navigation\\navigationcacheoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\navigation\\inavigationcacheoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\navigation\\inavigationcacheoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\asc.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\asc.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\configuration\\claimsprincipalextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\configuration\\claimsprincipalextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\configuration\\currentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\configuration\\currentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\areas\\servicerequests\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\servicerequests\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\controllers\\anonymouscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\controllers\\anonymouscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\data\\identityseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\data\\identityseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\configuration\\adminusersettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\configuration\\adminusersettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\migrations\\20260428060224_addidentitytables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\migrations\\20260428060224_addidentitytables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D7E26E-38D1-56F7-78A9-D9A5047BE0C0}|ASC.Tests\\ASC.Tests.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.tests\\homecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92D7E26E-38D1-56F7-78A9-D9A5047BE0C0}|ASC.Tests\\ASC.Tests.csproj|solutionrelative:asc.tests\\homecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D7E26E-38D1-56F7-78A9-D9A5047BE0C0}|ASC.Tests\\ASC.Tests.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.tests\\testutilities\\fakesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92D7E26E-38D1-56F7-78A9-D9A5047BE0C0}|ASC.Tests\\ASC.Tests.csproj|solutionrelative:asc.tests\\testutilities\\fakesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F66704A4-F390-4481-27DD-991D08B64EDA}|ASC.Utilities\\ASC.Utilities.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.utilities\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F66704A4-F390-4481-27DD-991D08B64EDA}|ASC.Utilities\\ASC.Utilities.csproj|solutionrelative:asc.utilities\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\migrations\\20260428044150_addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\migrations\\20260428044150_addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B33DD3-1BAF-7B29-BA86-0559FC5C9EED}|ASC.Model\\ASC.Model.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B33DD3-1BAF-7B29-BA86-0559FC5C9EED}|ASC.Model\\ASC.Model.csproj|solutionrelative:asc.model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\migrations\\20260428042639_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\migrations\\20260428042639_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\data\\iidentityseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\data\\iidentityseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE1C0F3-7E60-E0B9-91F1-6E23592E0F3B}|ASC.DataAccess\\ASC.DataAccess.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.dataaccess\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EE1C0F3-7E60-E0B9-91F1-6E23592E0F3B}|ASC.DataAccess\\ASC.DataAccess.csproj|solutionrelative:asc.dataaccess\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE1C0F3-7E60-E0B9-91F1-6E23592E0F3B}|ASC.DataAccess\\ASC.DataAccess.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.dataaccess\\repository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EE1C0F3-7E60-E0B9-91F1-6E23592E0F3B}|ASC.DataAccess\\ASC.DataAccess.csproj|solutionrelative:asc.dataaccess\\repository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE1C0F3-7E60-E0B9-91F1-6E23592E0F3B}|ASC.DataAccess\\ASC.DataAccess.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EE1C0F3-7E60-E0B9-91F1-6E23592E0F3B}|ASC.DataAccess\\ASC.DataAccess.csproj|solutionrelative:asc.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE1C0F3-7E60-E0B9-91F1-6E23592E0F3B}|ASC.DataAccess\\ASC.DataAccess.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.dataaccess\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EE1C0F3-7E60-E0B9-91F1-6E23592E0F3B}|ASC.DataAccess\\ASC.DataAccess.csproj|solutionrelative:asc.dataaccess\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE1C0F3-7E60-E0B9-91F1-6E23592E0F3B}|ASC.DataAccess\\ASC.DataAccess.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.dataaccess\\asc.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6EE1C0F3-7E60-E0B9-91F1-6E23592E0F3B}|ASC.DataAccess\\ASC.DataAccess.csproj|solutionrelative:asc.dataaccess\\asc.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B33DD3-1BAF-7B29-BA86-0559FC5C9EED}|ASC.Model\\ASC.Model.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.model\\masterdatavalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B33DD3-1BAF-7B29-BA86-0559FC5C9EED}|ASC.Model\\ASC.Model.csproj|solutionrelative:asc.model\\masterdatavalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B33DD3-1BAF-7B29-BA86-0559FC5C9EED}|ASC.Model\\ASC.Model.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.model\\masterdatakey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B33DD3-1BAF-7B29-BA86-0559FC5C9EED}|ASC.Model\\ASC.Model.csproj|solutionrelative:asc.model\\masterdatakey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B33DD3-1BAF-7B29-BA86-0559FC5C9EED}|ASC.Model\\ASC.Model.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.model\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B33DD3-1BAF-7B29-BA86-0559FC5C9EED}|ASC.Model\\ASC.Model.csproj|solutionrelative:asc.model\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B33DD3-1BAF-7B29-BA86-0559FC5C9EED}|ASC.Model\\ASC.Model.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.model\\iaudittracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B33DD3-1BAF-7B29-BA86-0559FC5C9EED}|ASC.Model\\ASC.Model.csproj|solutionrelative:asc.model\\iaudittracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B33DD3-1BAF-7B29-BA86-0559FC5C9EED}|ASC.Model\\ASC.Model.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.model\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B33DD3-1BAF-7B29-BA86-0559FC5C9EED}|ASC.Model\\ASC.Model.csproj|solutionrelative:asc.model\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B33DD3-1BAF-7B29-BA86-0559FC5C9EED}|ASC.Model\\ASC.Model.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.model\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B33DD3-1BAF-7B29-BA86-0559FC5C9EED}|ASC.Model\\ASC.Model.csproj|solutionrelative:asc.model\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\services\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\services\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\services\\ismssender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\services\\ismssender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|d:\\workspace\\document web\\thkttkpm\\asc_solution_recreated\\web_asc_lab1-lab4\\asc.web\\asc.web\\configuration\\applicationsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{828BEB74-77D7-9B4F-A91B-7908F4D7FC99}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\configuration\\applicationsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MasterValuesViewModel.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Configuration\\Models\\MasterValuesViewModel.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Configuration\\Models\\MasterValuesViewModel.cs",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Configuration\\Models\\MasterValuesViewModel.cs",
+              "RelativeToolTip": "ASC.Web\\Areas\\Configuration\\Models\\MasterValuesViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T06:08:01.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MasterDataValueViewModel.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Configuration\\Models\\MasterDataValueViewModel.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Configuration\\Models\\MasterDataValueViewModel.cs",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Configuration\\Models\\MasterDataValueViewModel.cs",
+              "RelativeToolTip": "ASC.Web\\Areas\\Configuration\\Models\\MasterDataValueViewModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T06:07:42.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MasterDataController.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Configuration\\Controllers\\MasterDataController.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Configuration\\Controllers\\MasterDataController.cs",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Configuration\\Controllers\\MasterDataController.cs",
+              "RelativeToolTip": "ASC.Web\\Areas\\Configuration\\Controllers\\MasterDataController.cs",
+              "ViewState": "AgIAAPkAAAAAAAAAAAAwwP8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T06:00:46.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Navigation.json",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Navigation\\Navigation.json",
+              "RelativeDocumentMoniker": "ASC.Web\\Navigation\\Navigation.json",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Navigation\\Navigation.json",
+              "RelativeToolTip": "ASC.Web\\Navigation\\Navigation.json",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-28T07:08:14.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Program.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Program.cs",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Program.cs",
+              "RelativeToolTip": "ASC.Web\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwDQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T02:39:26.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "ASC.Web\\appsettings.json",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\appsettings.json",
+              "RelativeToolTip": "ASC.Web\\appsettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-28T02:38:40.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MasterValues.cshtml",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Configuration\\Views\\MasterData\\MasterValues.cshtml",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Configuration\\Views\\MasterData\\MasterValues.cshtml",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Configuration\\Views\\MasterData\\MasterValues.cshtml",
+              "RelativeToolTip": "ASC.Web\\Areas\\Configuration\\Views\\MasterData\\MasterValues.cshtml",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAwwNkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-29T06:12:04.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\trong\\.nuget\\packages\\epplus\\6.2.10\\readme.txt",
+              "ToolTip": "C:\\Users\\trong\\.nuget\\packages\\epplus\\6.2.10\\readme.txt",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-04-29T06:16:02.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MasterKeys.cshtml",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Configuration\\Views\\MasterData\\MasterKeys.cshtml",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Configuration\\Views\\MasterData\\MasterKeys.cshtml",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Configuration\\Views\\MasterData\\MasterKeys.cshtml",
+              "RelativeToolTip": "ASC.Web\\Areas\\Configuration\\Views\\MasterData\\MasterKeys.cshtml",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAwwJUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-29T06:04:26.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MasterKeysViewModel.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Configuration\\Models\\MasterKeysViewModel.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Configuration\\Models\\MasterKeysViewModel.cs",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Configuration\\Models\\MasterKeysViewModel.cs",
+              "RelativeToolTip": "ASC.Web\\Areas\\Configuration\\Models\\MasterKeysViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T06:02:35.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Configuration\\Models\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Configuration\\Models\\MappingProfile.cs",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Configuration\\Models\\MappingProfile.cs",
+              "RelativeToolTip": "ASC.Web\\Areas\\Configuration\\Models\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T05:59:32.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Configuration\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Configuration\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Configuration\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ASC.Web\\Areas\\Configuration\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-29T05:59:00.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MasterDataKeyViewModel.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Configuration\\Models\\MasterDataKeyViewModel.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Configuration\\Models\\MasterDataKeyViewModel.cs",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Configuration\\Models\\MasterDataKeyViewModel.cs",
+              "RelativeToolTip": "ASC.Web\\Areas\\Configuration\\Models\\MasterDataKeyViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T05:58:31.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "ASC.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIAwwBIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T06:53:21.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MasterDataOperations.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Business\\Operations\\MasterDataOperations.cs",
+              "RelativeDocumentMoniker": "ASC.Business\\Operations\\MasterDataOperations.cs",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Business\\Operations\\MasterDataOperations.cs",
+              "RelativeToolTip": "ASC.Business\\Operations\\MasterDataOperations.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowHcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T05:45:37.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IMasterDataOperations.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Business\\Interfaces\\IMasterDataOperations.cs",
+              "RelativeDocumentMoniker": "ASC.Business\\Interfaces\\IMasterDataOperations.cs",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Business\\Interfaces\\IMasterDataOperations.cs",
+              "RelativeToolTip": "ASC.Business\\Interfaces\\IMasterDataOperations.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T05:43:44.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Customers.cshtml",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Accounts\\Views\\Account\\Customers.cshtml",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Accounts\\Views\\Account\\Customers.cshtml",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Accounts\\Views\\Account\\Customers.cshtml",
+              "RelativeToolTip": "ASC.Web\\Areas\\Accounts\\Views\\Account\\Customers.cshtml",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAgwIYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-28T12:09:36.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ASC.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAswCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T02:40:33.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASC.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ASC.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-28T02:59:16.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ASC.Web\\ScaffoldingReadMe.txt",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ASC.Web\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-04-28T06:32:02.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Accounts\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Accounts\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Accounts\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ASC.Web\\Areas\\Accounts\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAEMBAAAAAAAAAAAswGoBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T11:37:15.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProfileModel.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Accounts\\Models\\ProfileModel.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Accounts\\Models\\ProfileModel.cs",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Accounts\\Models\\ProfileModel.cs",
+              "RelativeToolTip": "ASC.Web\\Areas\\Accounts\\Models\\ProfileModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T12:12:40.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Views\\Home\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "ASC.Web\\Views\\Home\\Dashboard.cshtml",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Views\\Home\\Dashboard.cshtml",
+              "RelativeToolTip": "ASC.Web\\Views\\Home\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-29T05:07:06.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_SecureLayout.cshtml",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Views\\Shared\\_SecureLayout.cshtml",
+              "RelativeDocumentMoniker": "ASC.Web\\Views\\Shared\\_SecureLayout.cshtml",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Views\\Shared\\_SecureLayout.cshtml",
+              "RelativeToolTip": "ASC.Web\\Views\\Shared\\_SecureLayout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-28T03:00:14.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ServiceEngineers.cshtml",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Accounts\\Views\\Account\\ServiceEngineers.cshtml",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Accounts\\Views\\Account\\ServiceEngineers.cshtml",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Accounts\\Views\\Account\\ServiceEngineers.cshtml",
+              "RelativeToolTip": "ASC.Web\\Areas\\Accounts\\Views\\Account\\ServiceEngineers.cshtml",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAgwJEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-28T11:40:10.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Accounts\\Views\\Account\\Profile.cshtml",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Accounts\\Views\\Account\\Profile.cshtml",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Accounts\\Views\\Account\\Profile.cshtml",
+              "RelativeToolTip": "ASC.Web\\Areas\\Accounts\\Views\\Account\\Profile.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwDQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-28T12:17:22.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CustomerViewModel.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Accounts\\Models\\CustomerViewModel.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Accounts\\Models\\CustomerViewModel.cs",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Accounts\\Models\\CustomerViewModel.cs",
+              "RelativeToolTip": "ASC.Web\\Areas\\Accounts\\Models\\CustomerViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T12:06:38.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CustomerRegistrationViewModel.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Accounts\\Models\\CustomerRegistrationViewModel.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Accounts\\Models\\CustomerRegistrationViewModel.cs",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Accounts\\Models\\CustomerRegistrationViewModel.cs",
+              "RelativeToolTip": "ASC.Web\\Areas\\Accounts\\Models\\CustomerRegistrationViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T12:06:18.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Accounts\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Accounts\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Accounts\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ASC.Web\\Areas\\Accounts\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-28T11:24:59.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ExternalLogin.cshtml",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
+              "RelativeToolTip": "ASC.Web\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-28T09:39:46.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LeftNavigationViewComponent.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\ViewComponents\\LeftNavigationViewComponent.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\ViewComponents\\LeftNavigationViewComponent.cs",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\ViewComponents\\LeftNavigationViewComponent.cs",
+              "RelativeToolTip": "ASC.Web\\ViewComponents\\LeftNavigationViewComponent.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvw8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T07:13:46.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ServiceEngineerRegistrationViewModel.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Accounts\\Models\\ServiceEngineerRegistrationViewModel.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Accounts\\Models\\ServiceEngineerRegistrationViewModel.cs",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Accounts\\Models\\ServiceEngineerRegistrationViewModel.cs",
+              "RelativeToolTip": "ASC.Web\\Areas\\Accounts\\Models\\ServiceEngineerRegistrationViewModel.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T11:29:08.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ServiceEngineerViewModel.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Accounts\\Models\\ServiceEngineerViewModel.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Accounts\\Models\\ServiceEngineerViewModel.cs",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Accounts\\Models\\ServiceEngineerViewModel.cs",
+              "RelativeToolTip": "ASC.Web\\Areas\\Accounts\\Models\\ServiceEngineerViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T11:29:25.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ExternalLogin.cshtml.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml.cs",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml.cs",
+              "RelativeToolTip": "ASC.Web\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml.cs",
+              "ViewState": "AgIAAA4BAAAAAAAAAADwvxgBAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T09:39:46.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeToolTip": "ASC.Web\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwwBoAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-28T07:57:41.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "ASC.Web\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-28T06:35:49.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "ASC.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-28T06:35:50.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ConfirmEmail.cshtml",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "RelativeToolTip": "ASC.Web\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-28T07:57:46.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeToolTip": "ASC.Web\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-28T07:57:53.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "_ManageNav.cshtml",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "RelativeToolTip": "ASC.Web\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-28T08:06:08.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "_StatusMessage.cshtml",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Identity\\Pages\\Account\\Manage\\_StatusMessage.cshtml",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Identity\\Pages\\Account\\Manage\\_StatusMessage.cshtml",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Identity\\Pages\\Account\\Manage\\_StatusMessage.cshtml",
+              "RelativeToolTip": "ASC.Web\\Areas\\Identity\\Pages\\Account\\Manage\\_StatusMessage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-28T10:59:14.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
+              "RelativeToolTip": "ASC.Web\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-28T10:59:13.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Email.cshtml",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml",
+              "RelativeToolTip": "ASC.Web\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-28T10:58:36.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "RelativeToolTip": "ASC.Web\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-28T10:58:37.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "SetPassword.cshtml",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Identity\\Pages\\Account\\Manage\\SetPassword.cshtml",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Identity\\Pages\\Account\\Manage\\SetPassword.cshtml",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Identity\\Pages\\Account\\Manage\\SetPassword.cshtml",
+              "RelativeToolTip": "ASC.Web\\Areas\\Identity\\Pages\\Account\\Manage\\SetPassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-28T10:58:27.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ManageNavPages.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
+              "RelativeToolTip": "ASC.Web\\Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T08:06:08.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ChangePassword.cshtml",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
+              "RelativeToolTip": "ASC.Web\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-28T08:06:08.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Services\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Services\\DependencyInjection.cs",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Services\\DependencyInjection.cs",
+              "RelativeToolTip": "ASC.Web\\Services\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T09:20:06.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "AuthMessageSender.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Services\\AuthMessageSender.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Services\\AuthMessageSender.cs",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Services\\AuthMessageSender.cs",
+              "RelativeToolTip": "ASC.Web\\Services\\AuthMessageSender.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T02:49:32.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "EmailSettings.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Configuration\\EmailSettings.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Configuration\\EmailSettings.cs",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Configuration\\EmailSettings.cs",
+              "RelativeToolTip": "ASC.Web\\Configuration\\EmailSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T08:21:54.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ResetPasswordConfirmation.cshtml",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml",
+              "RelativeToolTip": "ASC.Web\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-28T08:32:36.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "init.js",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\wwwroot\\js\\init.js",
+              "RelativeDocumentMoniker": "ASC.Web\\wwwroot\\js\\init.js",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\wwwroot\\js\\init.js",
+              "RelativeToolTip": "ASC.Web\\wwwroot\\js\\init.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-28T08:34:09.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ResetPassword.cshtml",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
+              "RelativeToolTip": "ASC.Web\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
+              "ViewState": "AgIAADQAAAAAAAAAAAAwwEAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-28T07:54:08.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ChangePassword.cshtml.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml.cs",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml.cs",
+              "RelativeToolTip": "ASC.Web\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T08:06:08.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "ASC.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-28T07:57:31.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "RegisterConfirmation.cshtml",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "RelativeToolTip": "ASC.Web\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-28T07:57:26.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "NavigationModels.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Navigation\\NavigationModels.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Navigation\\NavigationModels.cs",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Navigation\\NavigationModels.cs",
+              "RelativeToolTip": "ASC.Web\\Navigation\\NavigationModels.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAiwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T07:09:06.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "NavigationCacheOperations.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Navigation\\NavigationCacheOperations.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Navigation\\NavigationCacheOperations.cs",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Navigation\\NavigationCacheOperations.cs",
+              "RelativeToolTip": "ASC.Web\\Navigation\\NavigationCacheOperations.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwDsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T07:11:57.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "INavigationCacheOperations.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Navigation\\INavigationCacheOperations.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Navigation\\INavigationCacheOperations.cs",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Navigation\\INavigationCacheOperations.cs",
+              "RelativeToolTip": "ASC.Web\\Navigation\\INavigationCacheOperations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T07:10:24.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ASC.Web.csproj",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\ASC.Web.csproj",
+              "RelativeDocumentMoniker": "ASC.Web\\ASC.Web.csproj",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\ASC.Web.csproj",
+              "RelativeToolTip": "ASC.Web\\ASC.Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-28T03:23:33.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ClaimsPrincipalExtensions.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Configuration\\ClaimsPrincipalExtensions.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Configuration\\ClaimsPrincipalExtensions.cs",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Configuration\\ClaimsPrincipalExtensions.cs",
+              "RelativeToolTip": "ASC.Web\\Configuration\\ClaimsPrincipalExtensions.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T06:57:16.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "CurrentUser.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Configuration\\CurrentUser.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Configuration\\CurrentUser.cs",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Configuration\\CurrentUser.cs",
+              "RelativeToolTip": "ASC.Web\\Configuration\\CurrentUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T06:55:49.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\ServiceRequests\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\ServiceRequests\\Controllers\\DashboardController.cs",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Areas\\ServiceRequests\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "ASC.Web\\Areas\\ServiceRequests\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T06:49:22.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "AnonymousController.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Controllers\\AnonymousController.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Controllers\\AnonymousController.cs",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Controllers\\AnonymousController.cs",
+              "RelativeToolTip": "ASC.Web\\Controllers\\AnonymousController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T06:46:08.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Controllers\\BaseController.cs",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "ASC.Web\\Controllers\\BaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T06:45:53.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "IdentitySeed.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Data\\IdentitySeed.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Data\\IdentitySeed.cs",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Data\\IdentitySeed.cs",
+              "RelativeToolTip": "ASC.Web\\Data\\IdentitySeed.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAIwGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T04:10:38.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "AdminUserSettings.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Configuration\\AdminUserSettings.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Configuration\\AdminUserSettings.cs",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Configuration\\AdminUserSettings.cs",
+              "RelativeToolTip": "ASC.Web\\Configuration\\AdminUserSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T06:10:25.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "20260428060224_AddIdentityTables.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Migrations\\20260428060224_AddIdentityTables.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Migrations\\20260428060224_AddIdentityTables.cs",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Migrations\\20260428060224_AddIdentityTables.cs",
+              "RelativeToolTip": "ASC.Web\\Migrations\\20260428060224_AddIdentityTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T06:02:24.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ASC.Web\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T03:55:06.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "HomeControllerTests.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Tests\\HomeControllerTests.cs",
+              "RelativeDocumentMoniker": "ASC.Tests\\HomeControllerTests.cs",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Tests\\HomeControllerTests.cs",
+              "RelativeToolTip": "ASC.Tests\\HomeControllerTests.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAIwFIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T05:02:06.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "FakeSession.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Tests\\TestUtilities\\FakeSession.cs",
+              "RelativeDocumentMoniker": "ASC.Tests\\TestUtilities\\FakeSession.cs",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Tests\\TestUtilities\\FakeSession.cs",
+              "RelativeToolTip": "ASC.Tests\\TestUtilities\\FakeSession.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T05:43:03.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "SessionExtensions.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Utilities\\SessionExtensions.cs",
+              "RelativeDocumentMoniker": "ASC.Utilities\\SessionExtensions.cs",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Utilities\\SessionExtensions.cs",
+              "RelativeToolTip": "ASC.Utilities\\SessionExtensions.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T05:26:06.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "20260428044150_AddProduct.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Migrations\\20260428044150_AddProduct.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Migrations\\20260428044150_AddProduct.cs",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Migrations\\20260428044150_AddProduct.cs",
+              "RelativeToolTip": "ASC.Web\\Migrations\\20260428044150_AddProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T04:41:50.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Model\\Product.cs",
+              "RelativeDocumentMoniker": "ASC.Model\\Product.cs",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Model\\Product.cs",
+              "RelativeToolTip": "ASC.Model\\Product.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvwkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T04:36:41.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "20260428042639_InitialCreate.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Migrations\\20260428042639_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Migrations\\20260428042639_InitialCreate.cs",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Migrations\\20260428042639_InitialCreate.cs",
+              "RelativeToolTip": "ASC.Web\\Migrations\\20260428042639_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T04:26:40.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "IIdentitySeed.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Data\\IIdentitySeed.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Data\\IIdentitySeed.cs",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Data\\IIdentitySeed.cs",
+              "RelativeToolTip": "ASC.Web\\Data\\IIdentitySeed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T04:09:58.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ASC.Web\\appsettings.Development.json",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\appsettings.Development.json",
+              "RelativeToolTip": "ASC.Web\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-28T03:58:14.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.DataAccess\\Repository\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "ASC.DataAccess\\Repository\\UnitOfWork.cs",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.DataAccess\\Repository\\UnitOfWork.cs",
+              "RelativeToolTip": "ASC.DataAccess\\Repository\\UnitOfWork.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T03:53:59.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.DataAccess\\Repository\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "ASC.DataAccess\\Repository\\IUnitOfWork.cs",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.DataAccess\\Repository\\IUnitOfWork.cs",
+              "RelativeToolTip": "ASC.DataAccess\\Repository\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwBEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T03:51:59.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.DataAccess\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "ASC.DataAccess\\Repository\\Repository.cs",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.DataAccess\\Repository\\Repository.cs",
+              "RelativeToolTip": "ASC.DataAccess\\Repository\\Repository.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAADwvygAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T03:41:31.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.DataAccess\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "ASC.DataAccess\\Repository\\IRepository.cs",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.DataAccess\\Repository\\IRepository.cs",
+              "RelativeToolTip": "ASC.DataAccess\\Repository\\IRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T03:40:44.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "ASC.DataAccess.csproj",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.DataAccess\\ASC.DataAccess.csproj",
+              "RelativeDocumentMoniker": "ASC.DataAccess\\ASC.DataAccess.csproj",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.DataAccess\\ASC.DataAccess.csproj",
+              "RelativeToolTip": "ASC.DataAccess\\ASC.DataAccess.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-28T03:40:24.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "MasterDataValue.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Model\\MasterDataValue.cs",
+              "RelativeDocumentMoniker": "ASC.Model\\MasterDataValue.cs",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Model\\MasterDataValue.cs",
+              "RelativeToolTip": "ASC.Model\\MasterDataValue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T03:39:41.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "MasterDataKey.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Model\\MasterDataKey.cs",
+              "RelativeDocumentMoniker": "ASC.Model\\MasterDataKey.cs",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Model\\MasterDataKey.cs",
+              "RelativeToolTip": "ASC.Model\\MasterDataKey.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T03:38:42.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "ServiceRequest.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Model\\ServiceRequest.cs",
+              "RelativeDocumentMoniker": "ASC.Model\\ServiceRequest.cs",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Model\\ServiceRequest.cs",
+              "RelativeToolTip": "ASC.Model\\ServiceRequest.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA2wAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T03:37:46.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "IAuditTracker.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Model\\IAuditTracker.cs",
+              "RelativeDocumentMoniker": "ASC.Model\\IAuditTracker.cs",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Model\\IAuditTracker.cs",
+              "RelativeToolTip": "ASC.Model\\IAuditTracker.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T03:31:11.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Model\\Constants.cs",
+              "RelativeDocumentMoniker": "ASC.Model\\Constants.cs",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Model\\Constants.cs",
+              "RelativeToolTip": "ASC.Model\\Constants.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAUwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T03:30:17.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Model\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "ASC.Model\\BaseEntity.cs",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Model\\BaseEntity.cs",
+              "RelativeToolTip": "ASC.Model\\BaseEntity.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T03:29:13.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ASC.Web\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ASC.Web\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwBoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-28T03:12:57.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "appsettings.Production.json",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\appsettings.Production.json",
+              "RelativeDocumentMoniker": "ASC.Web\\appsettings.Production.json",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\appsettings.Production.json",
+              "RelativeToolTip": "ASC.Web\\appsettings.Production.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-28T03:11:12.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ASC.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ASC.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAmwC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-28T02:44:09.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "IEmailSender.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Services\\IEmailSender.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Services\\IEmailSender.cs",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Services\\IEmailSender.cs",
+              "RelativeToolTip": "ASC.Web\\Services\\IEmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T02:48:17.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "ISmsSender.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Services\\ISmsSender.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Services\\ISmsSender.cs",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Services\\ISmsSender.cs",
+              "RelativeToolTip": "ASC.Web\\Services\\ISmsSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T02:48:45.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "ApplicationSettings.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Configuration\\ApplicationSettings.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Configuration\\ApplicationSettings.cs",
+              "ToolTip": "D:\\WorkSpace\\Document Web\\THKTTKPM\\asc_solution_recreated\\Web_ASC_Lab1-Lab4\\ASC.Web\\ASC.Web\\Configuration\\ApplicationSettings.cs",
+              "RelativeToolTip": "ASC.Web\\Configuration\\ApplicationSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T02:37:12.043Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
